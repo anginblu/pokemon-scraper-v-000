@@ -1,1 +1,1 @@
-ALTER TABLE pokemon(id INTEGER PRIMARY KEY, name TEXT, type TEXT, hp INTEGER);
+ALTER TABLE pokemon ADD hp INTEGER;
